@@ -8,9 +8,9 @@
 // update. Deleting the comments indicating the section will prevent
 // it from being updated in the future.
 
-package org.usfirst.frc5933.Rosieppbs.subsystems;
+package org.usfirst.frc5933.RosieLite.subsystems;
 
-import org.usfirst.frc5933.Rosieppbs.RobotMap;
+import org.usfirst.frc5933.RosieLite.RobotMap;
 import edu.wpi.first.wpilibj.PowerDistributionPanel;
 
 import edu.wpi.first.wpilibj.command.Subsystem;
